@@ -52,7 +52,8 @@ __Easy-Docker
 ---------------------------------------------------------
 {
     [License]
-           --Attribution-4.0-International-(CC BY 4.0) for Use only 
+           --Attribution-4.0-International-(__CC-BY-NC-SA) for Use only 
+}
 ---------------------------------------------------------
 [Copyright  Mohamed.torky2004@gmail.com  MT-2021]
 ---------------------------------------------------------
