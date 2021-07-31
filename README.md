@@ -64,9 +64,9 @@ __Easy-Docker
 
 
 ---------------------------------------------------------
-[Owner]	            :__Mohamed-Moner-Khiralla-Torky
-[Email]             :__Mohamed.torky2004@gmail.com
-[Website]           :__https://mohamedtorky1984.github.io/portofolio/
+[Owner]	            : __Mohamed-Moner-Khiralla-Torky
+[Email]             : __Mohamed.torky2004@gmail.com
+[Website]           : __https://mohamedtorky1984.github.io/portofolio/
 
 
 ---------------------------------------------------------
