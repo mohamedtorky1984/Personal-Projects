@@ -79,7 +79,7 @@ __M-trk
 	     __Notebad++
         how to add it?
           -- Open Notebad++  --> languages  --> user defined language --> import --> Select the M-trk.xml  file -- close and reopen Notebad++
-          -- Download the readme file and open it with Notebad++ and select the M-TRK language
+          -- Download the readme.M-TRK file and open it with Notebad++ and select the M-TRK language
 	        -- EX 
              --table
 	                  [  Product Name    | Version  |    Dat  e   ]
