@@ -22,17 +22,14 @@
 
 
 ---------------------------------------------------------
-{
-    [Introduction]
+[Introduction]
 
 __Easy-Docker 
    Is a  Command Line Tools that simplifying the use of Docker
    by listing Docker Commands on a selectable list 
-
-} 
+   
 ---------------------------------------------------------
-{
-    [Supported OSs]
+[Supported OSs]
 
 	__Easy-Docker.exe
 	
@@ -48,22 +45,17 @@ __Easy-Docker
 
        -- Will be available on the Future Releases 
 
-}
 ---------------------------------------------------------
-{
-    [License]
+[License]
            --Attribution-4.0-International-(__CC-BY-NC-SA) for Use only
 	   
 	   How To Use it?
 	      -- For Windows Double click 
 	      -- For others ./Easy-Docker.o 
 	   
-	   
-}
 ---------------------------------------------------------
 [Copyright  Mohamed.torky2004@gmail.com  MT-2021]
 ---------------------------------------------------------
-}
 
 # 2- M-trk
 ---------------------------------------------------------
@@ -75,17 +67,14 @@ __Easy-Docker
 [Release Date]	    : __June-2020
 
 ---------------------------------------------------------
-{
-    [Introduction]
+[Introduction]
 
 __M-trk 
    Is a markup language that defines a set of rules 
    to beautify documents in a format 
-
-} 
+ 
 ---------------------------------------------------------
-{
-    [Supported ]
+[Supported ]
 
 	     __Notebad++
         how to add it?
@@ -96,5 +85,5 @@ __M-trk
 	                  [  Product Name    | Version  |    Dat  e   ]
                           (     M-trk        |  1.0.0    | June-2020  )
 			  (   Easy-Docker    |  1.0.0    | June-2020  )
-}
+			  
 ---------------------------------------------------------
