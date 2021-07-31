@@ -93,8 +93,8 @@ __M-trk
           -- Download the readme file and open it with Notebad++ and select the M-TRK language
 	        -- EX 
              --table
-	                      [  Product Name  | Version  |   Dat  e   ]
-                              (    M-trk       | 1.0.0    | June-2020  )
-  
+	                  [  Product Name    | Version  |    Dat  e   ]
+                          (     M-trk        |  1.0.0    | June-2020  )
+			  (   Easy-Docker    |  1.0.0    | June-2020  )
 }
 ---------------------------------------------------------
