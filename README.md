@@ -5,7 +5,7 @@
 
 [Product Name]	    : __Easy-Docker(MT) 
 
-[Release Version]   : __1.0.0
+[Release Version]   : __1.0.0 Demo
 
 [Release Date]	    : __June-2021
 
