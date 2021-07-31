@@ -74,7 +74,7 @@ __Easy-Docker
 
 __M-trk 
    Is a markup language that defines a set of rules 
-   to beautify documents in a format that is both human-readable 
+   to beautify documents in a format 
 
 } 
 ---------------------------------------------------------
